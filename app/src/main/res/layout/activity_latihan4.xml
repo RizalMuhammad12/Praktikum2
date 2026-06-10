@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingBottom="10dp"
-        android:text="Latihan 4 - Perulangan"
+        android:text="Latihan 4 - Perulangan Bebek"
         android:textAlignment="center"
         android:textSize="20sp"
         android:textStyle="bold" />
